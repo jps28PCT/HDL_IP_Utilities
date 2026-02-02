@@ -15,7 +15,7 @@ Two VHDL IP utilities I made for other projects.
   ### Outputs:
   - `bcd` : 8-bit std logic vector
     - Bits 0 through 3 contain the decimal 'ones' place.
-    - Bits 4 through 7 contain the decimal 'ones' place. 
+    - Bits 4 through 7 contain the decimal 'tens' place. 
   
 </details>
 
